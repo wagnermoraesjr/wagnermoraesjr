@@ -12,7 +12,7 @@ Analista de Dados / Cientista de Dados
  
 * 🌍  Vivo em: São Paulo - SP
 * ✉️  Você pode falar comigo no: [wagnerjunior1@hotmail.com](mailto:wagnerjunior1@hotmail.com)
-* 🧠  Estou aprendendo sobre: Python, PySpark, SQL, Machine Learning, Microsoft Power BI, Amazon AWS, Estatística...
+* 🧠  Estou aprendendo sobre: Python, PySpark, SQL, Machine Learning, Microsoft Power BI, Amazon Web Services (AWS), Estatística...
 
 
 ### Socials
