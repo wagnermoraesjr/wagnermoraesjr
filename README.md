@@ -6,7 +6,7 @@ Analista de Dados / Cientista de Dados
 
 👨‍💻 Profissional experiente com 14 anos de atuação na indústria de turismo, estou entusiasmado em migrar para a área de dados (ciência de dados/análise de dados). 
 
-📖 Atualmente, estou investindo na minha transição de carreira, matriculado no curso de Big Data & Analytics da PoD Academy, buscando adquirir conhecimentos sólidos e práticos nesse campo em constante mudança e crescimento.
+📖 Atualmente, estou investindo na minha transição de carreira, matriculado no curso Full Stack em Data & Analytics da PoD Academy, buscando adquirir conhecimentos sólidos e práticos nesse campo em constante mudança e crescimento.
  
   
  
