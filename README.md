@@ -1,4 +1,4 @@
-Olá ![gif](https://raw.githubusercontent.com/wagnermoraesjr/wagnermoraesjr/master/images/gif-ola.gif) Meu nome é Wagner Moraes Junior
+Olá 🖐️ Meu nome é Wagner Moraes Junior
 ============================================================================================================================================
 
 Analista de Dados / Cientista de Dados
